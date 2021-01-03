@@ -14,7 +14,8 @@
         "stopOnEntry": false,
         "sourceLanguages": [
           "rust"
-        ]
+        ],
+        "preLaunchTask": "Rust: cargo build"
       }
     ]
   }

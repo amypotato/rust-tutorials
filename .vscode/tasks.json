@@ -11,7 +11,7 @@
 				"kind": "build",
 				"isDefault": true
 			},
-			"label": "Rust: cargo clean - guessing-game"
+			"label": "Rust: cargo clean"
 		},
 		{
 			"type": "cargo",
@@ -20,7 +20,7 @@
 				"$rustc"
 			],
 			"group": "build",
-			"label": "Rust: cargo build - guessing-game"
+			"label": "Rust: cargo build"
 		},
 		
 	]
